@@ -1,9 +1,7 @@
 //
 //  ColorSelectionViewController.swift
-//  deegeu-swift-share-extensions
-//
-//  Created by Daniel Spiess on 10/26/15.
-//  Copyright © 2015 Daniel Spiess. All rights reserved.
+//  Created by Swapnil Gwalherkar on 14/10/24.
+
 //
 
 import UIKit
